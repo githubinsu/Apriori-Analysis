@@ -1,5 +1,8 @@
 # Customer Product Recommendation using Apriori Analysis
 
+## Apriori Analysis
+Apriori analysis involves analyzing transaction data to find sets of products that are frequently purchased together. This information is used to generate association rules, which can then be used to make product recommendations. For example, if there is an association rule that states “apples and bananas are frequently purchased together,” then a customer who purchases apples could be recommended bananas.
+
 ## Background
 It is important to understand the purchasing behavior of customers in order to provide personalized product recommendations. By analyzing the transaction data, we can discover patterns and relationships between different products, and use this information to recommend products that are likely to be purchased together.
 
