@@ -3,6 +3,9 @@
 ## Apriori Analysis
 Apriori analysis involves analyzing transaction data to find sets of products that are frequently purchased together. This information is used to generate association rules, which can then be used to make product recommendations. For example, if there is an association rule that states “apples and bananas are frequently purchased together,” then a customer who purchases apples could be recommended bananas.
 
+## Data Description
+I have utilized publicly available sales data, which has been anonymized and processed for the purpose of analysis.
+
 ## Objective
 The goal of this project is to use Apriori analysis to generate personalized product recommendations for customers. I have a dataset containing transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
 
