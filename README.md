@@ -5,6 +5,7 @@ Apriori analysis involves analyzing transaction data to find sets of products th
 
 ## Data Description
 I have utilized publicly available sales data, which has been anonymized and processed for the purpose of analysis.
+The dataset contains transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
 
 ## Objective
 The goal of this project is to use Apriori analysis to generate personalized product recommendations for customers. I have a dataset containing transaction data, where each row represents an individual order and the columns include information such as Order Date, Customer ID, Product Number, Price, Sector, Category, and Subcategory.
